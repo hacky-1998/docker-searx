@@ -36,6 +36,6 @@ RUN chmod +x /usr/local/bin/run.sh
 
 EXPOSE 8888
 
-LABEL maintainer="Wonderfall <wonderfall@targaryen.house>"
+LABEL maintainer="Yannick Hack <yannick.hack@hack-it.co>"
 
 CMD ["run.sh"]
